@@ -15,6 +15,15 @@ namespace WebApplicaspfm
     {
 
         /// <summary>
+        /// Lecorps control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl Lecorps;
+
+        /// <summary>
         /// form1 control.
         /// </summary>
         /// <remarks>
@@ -67,5 +76,32 @@ namespace WebApplicaspfm
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Btn1;
+
+        /// <summary>
+        /// Btn2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Btn2;
+
+        /// <summary>
+        /// Btn3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Btn3;
+
+        /// <summary>
+        /// Btn4 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Btn4;
     }
 }

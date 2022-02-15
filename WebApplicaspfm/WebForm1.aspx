@@ -7,7 +7,7 @@
     <title></title>
    
 </head>
-<body>
+<body id="Lecorps" runat="server">
     <form id="form1" runat="server">
         <div>
 
@@ -22,6 +22,9 @@
         </div>
         <p>
             <asp:Button ID="Btn1" runat="server" Text="cklick me" OnClick="Btn1_Click"  />
+        &nbsp;<asp:Button ID="Btn2" runat="server" Text="Rouge" OnClick="Btn2_Click"  />
+        &nbsp;<asp:Button ID="Btn3" runat="server" Text=" vert" OnClick="Btn3_Click"  />
+        &nbsp;<asp:Button ID="Btn4" runat="server" Text="bleu" OnClick="Btn4_Click"  />
         </p>
     </form>
 </body>

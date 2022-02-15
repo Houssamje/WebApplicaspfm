@@ -18,5 +18,20 @@ namespace WebApplicaspfm
         {
             Labemessag.Text = Txtmessag.Text;
         }
+
+        protected void Btn2_Click(object sender, EventArgs e)
+        {
+            Lecorps.Style["background-color"] = "red";
+        }
+
+        protected void Btn3_Click(object sender, EventArgs e)
+        {
+            Lecorps.Style["background-color"] = "green";
+        }
+
+        protected void Btn4_Click(object sender, EventArgs e)
+        {
+            Lecorps,.Style["background-color"] = "blue";
+        }
     }
 }
